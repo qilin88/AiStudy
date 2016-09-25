@@ -21,6 +21,15 @@
 * 解决前端开发过程中遇到的工程化问题
 * 以node为基础，集成各个工程化模块，形成完善的前端一体化解决方案
 
-### wmu-ui框架 
+### wmu-ui
 * [传送门](https://github.com/qinmudi/WMU)
+* [erikqin](https://github.com/qinmudi)
+
+### yog学习
+* [传送门](https://github.com/mewtwo-chi/yog-study)
+* [mewtwo](https://github.com/mewtwo-chi)
+
+### 9ui
+* [传送门](https://github.com/mewtwo-chi/yog-study)
+* [mewtwo](https://github.com/mewtwo-chi)
 
